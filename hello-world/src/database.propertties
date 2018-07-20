@@ -1,0 +1,9 @@
+## driverClass=com.mysql.jdbc.Driver
+## url=jdbc:mysql://localhost:3306/zhuhe
+## username=root
+## password=123
+
+driverClass=com.mysql.jdbc.Driver
+url=jdbc:mysql://172.16.129.102:3306
+username=reader
+password=reader
