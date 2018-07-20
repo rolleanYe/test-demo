@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: /Users/yejun/tools/apache-tomcat-8.0.36/lib/mysql-connecto
- r-5.1.26.jar:/Users/yejun/repository/com/alibaba/fastjson/1.2.12/fast
- json-1.2.12.jar
-Main-Class: com.gupiao.AMain
-
