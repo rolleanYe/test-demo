@@ -11,6 +11,8 @@ import java.util.Map;
  */
 public class AMain {
 
+    //=============================
+
     public static final String URL = "http://stock.liangyee.com/bus-api/stock/freeStockMarketData/getDailyKBar";
     public static final String PARAM = "userKey={userKey}&startDate={date}&symbol={symbol}&endDate={date}&type=0";
     public static final String USERKEY = "6BEA02F1C56E4C4B98281FC0A9F87EAD";
